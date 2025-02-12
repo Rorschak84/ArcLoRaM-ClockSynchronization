@@ -11,7 +11,7 @@ Three sources codes are available:
 -Notifier: When the user press the button on the notifier board, it will use a wireless technology called ESP-NOW that triggers every other devices to print their synchronized interal clock value, allowing easy comparison.
 
 
-##Installation
+#Installation
 
 Before using the code, have a look on the fantastic library available at: https://github.com/ropg/heltec_esp32_lora_v3
 
