@@ -15,8 +15,13 @@ Three sources codes are available:
 
 Before using the code, have a look on the fantastic library available at: https://github.com/ropg/heltec_esp32_lora_v3
 
-I personnaly used it with platform io as It it requires only one line of code to add in the platformio.ini for the library to be installed.
+I personnaly used it with platform io as It requires only one line of code to add in the platformio.ini for the library to be installed.
 However, I noticed there is a compile error when utilizing more than one source file. I tried to install the library manually to bypass this problem, without success.
+
+
+#Algorithm And Result
+
+Please, consult the report in the Hub Page for detailed explanation.
 
 
 
